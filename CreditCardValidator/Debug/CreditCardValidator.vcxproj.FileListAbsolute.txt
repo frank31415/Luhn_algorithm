@@ -1,2 +1,0 @@
-C:\Users\frank\source\repos\CreditCardValidator\Debug\CreditCardValidator.exe
-C:\Users\frank\source\repos\CreditCardValidator\Debug\CreditCardValidator.pdb
